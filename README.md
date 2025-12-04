@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hello there, my name is Mendwas,<br>and I am currently working on the <br>Avancer Engine, with my friend.<br><br>🫠If you want to help me out, please<br>contact my discord @JustPrimStar, and if<br>you want to watch me make games go<br>to my YouTube channel JustPrimStar.<br><br>😁I also make games with cryengine
+👋Hello there, my name is Mendwas,<br>and I am currently working on the <br>Avancer Engine.<br><br>🫠If you want to help me out, please<br>contact my discord @JustPrimStar, and if<br>you want to watch me make games go<br>to my YouTube channel JustPrimStar.<br><br>😁I also make games with cryengine
 
 
 ## 🌐 Socials:
