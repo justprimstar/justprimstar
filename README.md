@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DirectX 12**
 
-- 🤝 I’m looking for help with **Game engine developemnt**
+- 🤝 I’m looking to help with **Game engine developemnt**
 
 - 💬 Ask me about **Opengl rendering**
 
