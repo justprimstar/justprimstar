@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Fallout Baltimore**
 
-- 🌱 I’m currently learning **DirectX 12**
+- 🌱 I’m currently learning **Interpretated Programming Languages**
 
 - 🤝 I’m looking to help with **Game engine developemnt**
 
