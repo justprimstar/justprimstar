@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mendwas</h1>
 <h3 align="center">I am a game developer that also makes game engines sometimes using Java or C++</h3>
 
-- 🔭 I’m currently working on **Fallout Baltimore**
+- 🔭 I’m currently working on **Humanoid**
 
 - 🌱 I’m currently learning **Interpretated Programming Languages**
 
