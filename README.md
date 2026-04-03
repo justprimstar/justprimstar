@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mendwas</h1>
 <h3 align="center">I am a game developer that also makes game engines sometimes using Java or C++</h3>
 
-- 🔭 I’m currently working on **Hood Life**
+- 🔭 I’m currently working on **Project Saturn**
 
 - 🌱 I’m currently learning **Interpretated Programming Languages**
 
 - 🤝 I’m looking to help with **Game engine developemnt**
 
-- 💬 Ask me about **Opengl rendering**
+- 💬 Ask me about **Opengl rendering and CryEngine stuff**
 
 - 📫 How to reach me **with my discord @justprimstar**
 
