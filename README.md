@@ -1,26 +1,65 @@
-<h1 align="center">Hi 👋, I'm Mendwas</h1>
-<h3 align="center">I am a game developer that also makes game engines sometimes using Java or C++</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Mendwas%20Nchom&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Graphics%20Programmer&descSize=18&descAlignY=55&textBg=false"/>
 
-- 🔭 I’m currently working on **Craftonix**
-
-- 🌱 I’m currently learning **Interpretated Programming Languages**
-
-- 🤝 I’m looking to help with **Game engine developemnt**
-
-- 💬 Ask me about **Opengl rendering and CryEngine stuff**
-
-- 📫 How to reach me **with my discord @justprimstar**
-
-- ⚡ Fun fact **I study art as well!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://https://www.youtube.com/@JustPrim565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="justprim565" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/G6zjqDW2U7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/G6zjqDW2U7" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%22Stop%20making%20500%20projects%20and%20not%20finishing%20them%22" alt="Typing introduction" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=justprimstar">
+    <img src="https://komarev.com/ghpvc/?username=justprimstar&label=Profile%20views&color=00FFFF&style=flat-square" alt="justprimstar's profile views" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justprimstar&show_icons=true&locale=en" alt="justprimstar" /></p>
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/justprimstar">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=justprimstar&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="justprimstar's GitHub Stats" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=justprimstar&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mendwas Nchom's GitHub Trophies" />
+</p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+
+</p>
+
+![Top language](https://stats.pphat.top/languages?username=justprimstar)
+<br/>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.youtube.com/@JustPrim565"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="Mendwas Nchom's YouTube"/></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
