@@ -19,9 +19,6 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=justprimstar&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mendwas Nchom's GitHub Trophies" />
 </p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
 
 
 ## 🛠️ Languages & Tools
